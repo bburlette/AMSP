@@ -1,0 +1,40 @@
+Item,1-PTT (TR),1-PTT / Shell,A-EXXON-PLL,2-PETRONET TL,2-PETRONET FOB,A-EXX-MAR,Kochi TR,Exxon-PCSG
+Revision Date,2025-09-05,2025-09-05,2025-09-05,2025-09-05,2025-09-05,2025-09-05,2025-09-05,2025-09-05
+( Xi  *  Mi ),16,16,5,3,3,5,3,5
+( Xi  *  Mi * Hi ),16,16,10,0,5,10,2,10
+( Xi  *  Vi ),16,16,7,6,6,7,6,7
+A-Molar Weight,1,1,3,3,3,3,3,3
+AVERAGE TEMP LIQUID,1,1,1,1,1,1,1,1
+AVERAGE TEMP VAPOUR,1,1,1,1,1,1,1,1
+Additional Mi,2,2,,,,,,
+Analysis format,2,2,2,2,2,2,2,2
+B-Molar Volume,1,1,1,3,5,1,3,1
+C-HHV Mass,1,1,4,5,5,4,5,4
+Cargo HHV Int,,,5,,,5,,5
+D-HHV Volume,,,3,3,3,3,3,3
+Density,2,2,1,2,1,2,2,1
+E-Summation Factor,,,1,,,1,,1
+E-Summation Factor-2,,,2,,,2,,2
+F- K1 / K2 Table,1,1,3,3,5,3,3,3
+Hm (Mass),2,4,4,0,0,4,2,4
+Hm (Volume),2,4,1,2,0,1,2,1
+K1,6,6,6,6,6,6,6,6
+K2,6,6,6,6,6,6,6,6
+Loaded Volume,0,0,0,0,0,0,2,0
+OCT / CCT Volume,3,3,3,3,3,3,3,3
+PROBE TEMP LIQUID,2,2,2,2,1,2,2,2
+PROBE TEMP VAPOUR,2,2,2,2,1,2,2,2
+Pressure,0,0,1,0,0,1,0,1
+QR HHV (V) POA final,3,3,3,2,2,2,2,2
+QR HHV (v)  indi,2,2,1,1,1,1,1,1
+QR HHV Table,2,2,3,3,3,3,3,3
+S  ( Xi  *  Mi ),16,16,4,3,3,4,3,4
+S  ( Xi  *  Mi * Hi ),16,16,9,0,0,9,2,9
+S  ( Xi  *  Vi ),16,16,6,6,6,6,6,6
+S  ( Xi  * HVi),16,16,1,2,2,1,2,1
+Vi,6,16,6,6,6,6,6,6
+Wobbe Index,2,4,2,2,0,2,2,2
+Xi,4,4,4,4,4,4,4,4
+Xi * Bi,,,16,,,16,,16
+Xi * Hvi,16,16,2,2,2,2,2,2
+Z,,,2,,,5,,5
